@@ -1,10 +1,8 @@
 ---
-title: "Deploying Quartz to the Web"
+title: "Obsidian111 Vault Integration"
 tags:
 - setup
-weight: -1
-aliases:
-- hosting
+weight: -3
 ---
 
 ## Hosting on GitHub Pages
