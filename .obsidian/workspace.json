@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/SaleManagement/Auto/index.md",
+                "file": "content/SaleManagement/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/SaleManagement/Auto/index.md",
+                "file": "content/SaleManagement/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/SaleManagement/Auto/index.md",
+                "file": "content/SaleManagement/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/SaleManagement/Auto/index.md"
+                "file": "content/SaleManagement/Index.md"
               }
             }
           }
@@ -187,12 +187,12 @@
   },
   "active": "20f95e2f81234579",
   "lastOpenFiles": [
-    "content/SaleManagement/Auto/ARM.md",
-    "content/SaleManagement/Auto/index.md",
-    "content/SaleManagement/Index.md",
     "README.md",
-    "content/on eng/newone.md",
     "content/_index.md",
+    "content/SaleManagement/Auto/index.md",
+    "content/SaleManagement/Auto/ARM.md",
+    "content/SaleManagement/Index.md",
+    "content/on eng/newone.md",
     "_README.md",
     "content/BuyManagement/Index.md",
     "CODE_OF_CONDUCT.md",
