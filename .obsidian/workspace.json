@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/oneng/new one.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/oneng/new one.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "20f95e2f81234579",
+  "active": "1fe63ee00bad386a",
   "lastOpenFiles": [
     "content/oneng/new one.md",
     "README.md",
