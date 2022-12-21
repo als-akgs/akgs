@@ -18,6 +18,9 @@ Customizable and hackable design based on [Hugo](https://gohugo.io/)
 
 а по русски [hosting](content/oneng/hosting.md) xenrf
 
+и моя наконец [new one](content/oneng/new%20one.md)
+
+
 
 Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
 
