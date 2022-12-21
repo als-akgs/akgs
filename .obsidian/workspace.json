@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/oneng/new one.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/oneng/new one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/oneng/new one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/oneng/new one.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "ef6a0f3ecc51468a",
   "lastOpenFiles": [
-    "README.md",
-    "content/oneng/new one.md",
-    "content/notes/custom Domain.md",
-    "content/_index.md",
     "content/oneng/hosting.md",
+    "content/oneng/new one.md",
+    "README.md",
+    "content/_index.md",
+    "content/notes/custom Domain.md",
     "content/по русски/host.md",
     "content/notes/callouts.md",
     "Без названия.md",
