@@ -19,10 +19,10 @@ Customizable and hackable design based on [Hugo](https://gohugo.io/)
 а по русски [hosting](content/oneng/hosting.md) xenrf
 
 
-[new one](content/oneng/new%20one.md) еще раз
+[newone](content/oneng/newone.md) еще раз
 
 [hosting](content/oneng/hosting.md)
-[hosting 1](content/oneng/hosting%201.md)
+[hosting1](content/oneng/hosting1.md)
 
 [hostingggg](content/oneng/hostingggg.md)
 
