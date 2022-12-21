@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/on eng/newone.md",
+                "file": "content/SaleManagement/Auto/ARM.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/SaleManagement/Auto/ARM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/SaleManagement/Auto/ARM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/SaleManagement/Auto/ARM.md"
               }
             }
           }
@@ -185,17 +185,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ca4e39317c427296",
+  "active": "20f95e2f81234579",
   "lastOpenFiles": [
-    "content/_index.md",
-    "README.md",
-    "_README.md",
+    "content/SaleManagement/Auto/index.md",
+    "content/SaleManagement/Auto/ARM.md",
     "content/SaleManagement/Index.md",
+    "README.md",
+    "content/on eng/newone.md",
+    "content/_index.md",
+    "_README.md",
     "content/BuyManagement/Index.md",
     "CODE_OF_CONDUCT.md",
-    "content/on eng/hosting.md",
-    "content/on eng/newone.md",
-    "content/on eng/hosting1.md",
-    "content/on eng/hostingggg.md"
+    "content/on eng/hosting.md"
   ]
 }
