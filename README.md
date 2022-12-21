@@ -16,6 +16,9 @@ Customizable and hackable design based on [Hugo](https://gohugo.io/)
 
 [hosting](content/notes/hosting.md) nenj
 
+а по русски [host](content/по%20русски/host.md)
+
+
 Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
