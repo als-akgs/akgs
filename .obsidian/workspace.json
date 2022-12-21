@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75af5a228800acc3",
+        "id": "81871130b12ae83f",
         "type": "tabs",
         "children": [
           {
-            "id": "352493b9f7a24a4b",
+            "id": "bdadbf1ffa2746cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "352493b9f7a24a4b",
+  "active": "bdadbf1ffa2746cc",
   "lastOpenFiles": [
-    "README.md"
+    "content/_index.md",
+    "README.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/notes/callouts.md",
+    "screenshot.png",
+    "CODE_OF_CONDUCT.md"
   ]
 }

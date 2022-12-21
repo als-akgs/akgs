@@ -9,6 +9,11 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 5. Built-in CJK + Latex Support and Admonition-style callouts
 6. Support for both Markdown Links and Wikilinks
 
+Extremely fast natural-language [[notes/search]]
+
+Customizable and hackable design based on [Hugo](https://gohugo.io/)
+
+
 Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
