@@ -49,8 +49,12 @@
             "id": "ca4e39317c427296",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -177,17 +185,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7989f730e9231870",
+  "active": "ca4e39317c427296",
   "lastOpenFiles": [
-    "content/on eng/hosting.md",
+    "_README.md",
     "README.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "content/on eng/hosting.md",
     "content/on eng/newone.md",
     "content/on eng/hosting1.md",
     "content/on eng/hostingggg.md",
     "content/notes/obsidian.md",
-    "content/notes/ignore notes.md",
-    "content/notes/editing.md",
-    "content/notes/docker.md",
-    "content/notes/custom Domain.md"
+    "content/notes/ignore notes.md"
   ]
 }
