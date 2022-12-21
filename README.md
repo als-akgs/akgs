@@ -22,6 +22,9 @@ Customizable and hackable design based on [Hugo](https://gohugo.io/)
 [new one](content/oneng/new%20one.md) еще раз
 
 [hosting](content/oneng/hosting.md)
+[hosting 1](content/oneng/hosting%201.md)
+
+[hostingggg](content/oneng/hostingggg.md)
 
 
 Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
