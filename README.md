@@ -10,7 +10,7 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 6. Support for both Markdown Links and Wikilinks
 
 Extremely fast natural-language [[notes/search]]
-
+ggg [[hosting]]
 Customizable and hackable design based on [Hugo](https://gohugo.io/)
 
 

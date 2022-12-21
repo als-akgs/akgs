@@ -11,11 +11,28 @@
             "id": "bdadbf1ffa2746cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cab01ca7fc318d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/hosting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/notes/hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/notes/hosting.md"
+              }
             }
           }
         ]
@@ -138,13 +159,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bdadbf1ffa2746cc",
+  "active": "9cab01ca7fc318d2",
   "lastOpenFiles": [
-    "content/_index.md",
     "README.md",
+    "content/notes/callouts.md",
+    "content/_index.md",
     "content/notes/custom Domain.md",
     "content/notes/config.md",
-    "content/notes/callouts.md",
     "screenshot.png",
     "CODE_OF_CONDUCT.md"
   ]
