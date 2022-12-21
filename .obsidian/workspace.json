@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/oneng/new one.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/oneng/new one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/oneng/new one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/oneng/new one.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "1fe63ee00bad386a",
   "lastOpenFiles": [
-    "content/oneng/new one.md",
     "README.md",
+    "content/oneng/hosting.md",
+    "content/oneng/new one.md",
     "content/notes/obsidian.md",
     "content/notes/ignore notes.md",
     "content/notes/editing.md",
     "content/notes/docker.md",
     "content/notes/custom Domain.md",
     "content/notes/config.md",
-    "content/notes/callouts.md",
-    "content/oneng/hosting.md"
+    "content/notes/callouts.md"
   ]
 }

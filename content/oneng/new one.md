@@ -5,7 +5,7 @@ tags:
 weight: -3
 ---
 
-## Hosting on GitHub Pages
+## Hosting 1111 on GitHub Pages
 Quartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go! Follow the steps below.
 
 ### Enable GitHub Actions
