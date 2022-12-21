@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/eng/hosting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6943aafd48827eed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/eng/hosting.md",
+                "file": "content/по русски/hosting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/eng/hosting.md",
+                "file": "content/по русски/hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/eng/hosting.md",
+                "file": "content/по русски/hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/eng/hosting.md"
+                "file": "content/по русски/hosting.md"
               }
             }
           }
@@ -171,12 +159,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7989f730e9231870",
+  "active": "8d111fec931f10b1",
   "lastOpenFiles": [
-    "content/по русски/host.md",
     "README.md",
+    "content/по русски/host.md",
+    "content/по русски/hosting.md",
     "content/notes/callouts.md",
-    "content/eng/hosting.md",
     "Без названия.md",
     "CODE_OF_CONDUCT.md",
     "content/_index.md",
