@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 551.5
   },
   "right": {
     "id": "738335629de0ef4b",
@@ -187,15 +187,15 @@
   },
   "active": "20f95e2f81234579",
   "lastOpenFiles": [
+    "20221221184459.png",
+    "content/SaleManagement/Auto/ARM.md",
     "content/SaleManagement/Auto/index.md",
     "content/SaleManagement/Index.md",
     "README.md",
     "content/_index.md",
-    "content/SaleManagement/Auto/ARM.md",
     "content/on eng/newone.md",
     "_README.md",
     "content/BuyManagement/Index.md",
-    "CODE_OF_CONDUCT.md",
-    "content/on eng/hosting.md"
+    "CODE_OF_CONDUCT.md"
   ]
 }
