@@ -10,21 +10,21 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-th
 6. Support for both Markdown Links and Wikilinks
 
 Extremely fast natural-language [[notes/search]]
-ggg [[content/oneng/hosting]]
+ggg [[content/on eng/hosting]]
 Customizable and hackable design based on [Hugo](https://gohugo.io/)
 
 
-[hosting](content/oneng/hosting.md) nenj
+[hosting](content/on%20eng/hosting.md) nenj
 
-а по русски [hosting](content/oneng/hosting.md) xenrf
+а по русски [hosting](content/on%20eng/hosting.md) xenrf
 
 
-[моя новая заметка](content/oneng/newone.md) еще раз
+[моя новая заметка](content/on%20eng/newone.md) еще раз
 
-[hosting](content/oneng/hosting.md)
-[hosting1](content/oneng/hosting1.md)
+[hosting](content/on%20eng/hosting.md)
+[hosting1](content/on%20eng/hosting1.md)
 
-[hostingggg](content/oneng/hostingggg.md)
+[hostingggg](content/on%20eng/hostingggg.md)
 
 
 Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
