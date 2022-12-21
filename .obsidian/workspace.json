@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/hosting.md",
+                "file": "content/eng/hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/по русски/host.md",
+                "file": "content/eng/hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/по русски/host.md",
+                "file": "content/eng/hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/по русски/host.md",
+                "file": "content/eng/hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/по русски/host.md"
+                "file": "content/eng/hosting.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6943aafd48827eed",
+  "active": "7989f730e9231870",
   "lastOpenFiles": [
-    "README.md",
     "content/по русски/host.md",
+    "README.md",
     "content/notes/callouts.md",
-    "content/notes/hosting.md",
+    "content/eng/hosting.md",
     "Без названия.md",
     "CODE_OF_CONDUCT.md",
     "content/_index.md",

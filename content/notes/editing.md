@@ -61,6 +61,6 @@ For those who like to live life more on the edge, viewing the garden through Obs
 ## Publishing Changes
 Now that you know the basics of managing your digital garden using Quartz, you can publish it to the internet!
 
-> 🌍 Step 5: [Hosting Quartz online!](notes/hosting.md)
+> 🌍 Step 5: [Hosting Quartz online!](../eng/hosting.md)
 
 Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
