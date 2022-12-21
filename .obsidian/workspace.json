@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ba8a906673bf04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/oneng/new one.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/oneng/new one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/oneng/new one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/oneng/new one.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ef6a0f3ecc51468a",
+  "active": "7ba8a906673bf04f",
   "lastOpenFiles": [
+    "content/notes/custom Domain.md",
+    "content/oneng/new one.md",
+    "content/_index.md",
     "README.md",
     "content/oneng/hosting.md",
     "content/по русски/host.md",
     "content/notes/callouts.md",
     "Без названия.md",
     "CODE_OF_CONDUCT.md",
-    "content/_index.md",
-    "content/notes/custom Domain.md",
-    "content/notes/config.md",
-    "screenshot.png"
+    "content/notes/config.md"
   ]
 }
